@@ -96,6 +96,7 @@ public class LifeMain {
             Files.write(Paths.get(filePath), active.toString().getBytes(), StandardOpenOption.APPEND);
 
             System.out.println(hum.getName() + ": paid: Record has been saved...");
+            
 
         } catch (IOException e) {
             System.out.println("File not found (we did not find where to save your data)...");;
