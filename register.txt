@@ -1,0 +1,60 @@
+ Activity: Movies. 
+ Venue: Ramon Video Club. 
+ Allowed Age : 18. 
+ Cost: 20000.0. 
+ Customer Name: Hakim Buyondo. 
+ Customer Age: 28. 
+ Customer Gender: Male. 
+ Amount Paid: 50000.0. 
+ Customer Address: Nsangi Kitemu: Masaka Road. 
+ Balance: 30000.0. 
+ Paid at (Date): 2023-12-19 
+ -------------------------------------------------------------------
+ Activity: Movies. 
+ Venue: Ramon Video Club. 
+ Allowed Age : 18. 
+ Cost: 20000.0. 
+ Customer Name: Henry Mayanja. 
+ Customer Age: 32. 
+ Customer Gender: Male. 
+ Amount Paid: 30000.0. 
+ Customer Address: Kalerwe Bwayise. 
+ Balance: 10000.0. 
+ Paid at (Date): 2023-12-19 
+ ------------------------------------------------------------------- 
+ Activity: Music. 
+ Venue: Ramon Video Club. 
+ Allowed Age : 18. 
+ Cost: 20000.0. 
+ Customer Name: Agaba Andrew. 
+ Customer Age: 34. 
+ Customer Gender: Male. 
+ Amount Paid: 35000.0. 
+ Customer Address: Gayaza. 
+ Balance: 15000.0. 
+ Paid at (Date): 2023-12-19 
+ ------------------------------------------------------------------- 
+ Activity: Tour. 
+ Venue: Ramon Video Club. 
+ Allowed Age : 18. 
+ Cost: 20000.0. 
+ Customer Name: Olga Simons. 
+ Customer Age: 26. 
+ Customer Gender: Female. 
+ Amount Paid: 40000.0. 
+ Customer Address: Seeta: Jinja Road. 
+ Balance: 20000.0. 
+ Paid at (Date): 2023-12-19 
+ ------------------------------------------------------------------- 
+ Activity: Learning. 
+ Venue: Ramon Video Club. 
+ Allowed Age : 18. 
+ Cost: 20000.0. 
+ Customer Name: Vanesa Rose. 
+ Customer Age: 31. 
+ Customer Gender: Female. 
+ Amount Paid: 50000.0. 
+ Customer Address: Alaska: USA. 
+ Balance: 30000.0. 
+ Paid at (Date): 2023-12-20 
+ -------------------------------------------------------------------
